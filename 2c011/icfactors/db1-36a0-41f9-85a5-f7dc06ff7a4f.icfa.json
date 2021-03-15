@@ -1,10 +1,10 @@
 {
     "AX": {
-        "error": 4.7829159907049664e-05,
+        "error": 0.0001382659736071564,
         "fit": "Bracketing Interpolate",
         "references": [
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "c-03-J-3205",
                 "uuid": "da3cf255-79bc-4b1f-a492-825ba3f74250"
             },
@@ -104,7 +104,7 @@
                 "uuid": "ecc6319e-de4f-4983-b029-0b3f3c145b1d"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "c-03-J-3225",
                 "uuid": "4ef4c4b8-c159-48a1-8857-7f3f1fc88bf4"
             },
@@ -136,7 +136,7 @@
         ],
         "reviewed": true,
         "standard_ratio": 6.71,
-        "value": 1.0023723717288524
+        "value": 1.0021314644609312
     },
     "CDD": {
         "error": 0.0011350294983783653,
